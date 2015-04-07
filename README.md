@@ -19,8 +19,10 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 * [Membership Ideas](#membership)
 * [Pledge Drive Ideas](#pledge)
 * [Projects](#projects)
-* [Repos](#repos)
-* [Social](#social)
+* [Public Media Chats](#chats)
+* [Code Repos](#repos)
+* [Social Media Campaigns That Work](#social)
+* [Storytelling Ideas That Work](#storytelling)
 
 
 # Archives
