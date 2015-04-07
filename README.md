@@ -34,6 +34,8 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 
 ## Audio
 
+* [Audacity](http://audacity.sourceforge.net/) - open-source audio editor
+
 ### Podcasts
 * [Podcast Generator](http://podcastgen.sourceforge.net) - an open source podcast generator
 
@@ -662,6 +664,28 @@ People:
 [Jeremy Bernfeld] (https://twitter.com/jeremyhpm), editor
 
 [Staff Twitter List] (https://twitter.com/JeremyHPM/lists/harvest-public-media)
+
+**KCUR - Kansas City, Mo., Public Media (Partners with Harvest)**
+
+[Twitter] (https://twitter.com/kcur)
+
+People/programs:
+
+[Briana O'Higgins] (https://twitter.com/brianaohiggins), digital content editor
+
+[Alyson Raletz] (https://twitter.com/AlysonRaletz), social media producer
+
+[Laura Spencer] (https://twitter.com/lauraspencer), arts and culture producer
+
+[Laura Ziegler] (https://twitter.com/laurazig), community engagement reporter/producer
+
+[Up to Date] (https://twitter.com/KCURUpToDate), local daily talk show
+
+[Lisa Rodriguez] (https://twitter.com/larodrig), Up to Date producer
+
+
+
+[Andy Marso] (https://twitter.com/andymarso), Kansas Health Institute reporter
 
 ** KCRW - Los Angeles - Santa Monica, CA **
 
