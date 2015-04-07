@@ -33,7 +33,10 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 * [Storytelling](#storytelling)
 
 ## Audio
-* http://podcastgen.sourceforge.net
+
+### Podcasts
+* [Podcast Generator](http://podcastgen.sourceforge.net) - an open source podcast generator
+
 * 
 
 ## Storytelling
