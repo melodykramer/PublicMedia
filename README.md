@@ -48,7 +48,7 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 * [WNYC's Pledge Drive Videos](https://www.youtube.com/playlist?list=PLUQrcRVuC9YKEZhse2_HMvS_vpZoyRVze)
 
 ##Handbooks and manuals 
-* http://sverigesradio.se/press/bilder/swedishradio2013_socmed.pdf
+* [2003 Handbook on Social Media from Swedish Public Radio](http://sverigesradio.se/press/bilder/swedishradio2013_socmed.pdf) (pdf)
 
 
 # Projects 
@@ -85,7 +85,7 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 * https://github.com/nprds
  
 ##international
-* https://github.com/sverigesradio
+* [Sweden](https://github.com/sverigesradio)
 
 ## related
 * https://github.com/publicmediaplatform
