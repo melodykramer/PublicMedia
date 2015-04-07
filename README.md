@@ -37,55 +37,55 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 # Repos
 
 ## actual public radio stations
-https://github.com/nypublicradio
-https://github.com/KQED
-https://github.com/SCPR
-https://github.com/stlpublicradio
-https://github.com/thebirn
-https://github.com/michiganradio
-https://github.com/kuscinteractive
-https://github.com/klruweb
-https://github.com/KPBS
-https://github.com/wbez
-https://github.com/azpm
-https://github.com/wbur
-https://github.com/wgbh
-https://github.com/vprnet
+* https://github.com/nypublicradio
+* https://github.com/KQED
+* https://github.com/SCPR
+* https://github.com/stlpublicradio
+* https://github.com/thebirn
+* https://github.com/michiganradio
+* https://github.com/kuscinteractive
+* https://github.com/klruweb
+* https://github.com/KPBS
+* https://github.com/wbez
+* https://github.com/azpm
+* https://github.com/wbur
+* https://github.com/wgbh
+* https://github.com/vprnet
  
 ## community/college radio
-https://github.com/WHRB
-https://github.com/WMFO
+* https://github.com/WHRB
+* https://github.com/WMFO
  
 ## networks
-https://github.com/PRX
-https://github.com/APMG
-https://github.com/PublicRadioInternational
-https://github.com/npr
-https://github.com/nprapps
-https://github.com/nprdm
-https://github.com/nprds
+* https://github.com/PRX
+* https://github.com/APMG
+* https://github.com/PublicRadioInternational
+* https://github.com/npr
+* https://github.com/nprapps
+* https://github.com/nprdm
+* https://github.com/nprds
  
 ## related
-https://github.com/publicmediaplatform
-https://github.com/youthradio
-https://github.com/opensourceradio
-https://github.com/bbcrd
-https://github.com/popuparchive/
-https://github.com/DemocracyNow
+* https://github.com/publicmediaplatform
+* https://github.com/youthradio
+* https://github.com/opensourceradio
+* https://github.com/bbcrd
+* https://github.com/popuparchive/
+* https://github.com/DemocracyNow
  
 ## prior aggrgation attempt
-https://github.com/pubcode
+* https://github.com/pubcode
  
 ## pbs
-https://github.com/pbs
-https://github.com/pbs-education
-https://github.com/newshour
-https://github.com/OpenBento
-https://github.com/PBS-KIDS
-https://github.com/openpublicmedia
+* https://github.com/pbs
+* https://github.com/pbs-education
+* https://github.com/newshour
+* https://github.com/OpenBento
+* https://github.com/PBS-KIDS
+* https://github.com/openpublicmedia
  
-# spun off american archive work
-https://github.com/projectblacklight
+## spun off american archive work
+* https://github.com/projectblacklight
 
 # Social 
 
