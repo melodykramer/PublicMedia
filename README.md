@@ -3,7 +3,7 @@ Everything Public Media, in One Place
 
 I currently subscribe to three public media Facebook groups, several listservs, read several blogs, and try to follow hashtags on Twitter — and still miss really important public media stuff.
 
-So I'm taking a cue from a really smart idea in the tech world: to use Github to [make lists](github.com/jnv/lists) of all of the awesome public media resources, in one place. Anyone can add to this list. To add to the list,
+So I'm taking a cue from a really smart idea in the tech world: to use Github to [make lists](https://github.com/jnv/lists) of all of the awesome public media resources, in one place. Anyone can add to this list. To add to the list,
 
 1. Fork the repo
 2. Make changes
