@@ -1,9 +1,36 @@
 Everything Public Media, in One Place
 ======================================
 
+# Categories 
+
+* [Why This Exists](#why-this-exists)
+* [How to Add To This List](#instructions)
+* [Categories](#categories) 
+ * [Archives](#archives)
+ * [Audio Editing Tools](#tools)
+ * [Engineering Tools](#engineering)
+ * [Membership Ideas](#membership)
+ * [Pledge Drive Ideas](#pledge)
+ * [Projects](#projects)
+ * [Public Media Chats](#chats)
+ * [Code Repos](#repos)
+ * [Social Media Campaigns That Work](#social)
+ * [Storytelling Ideas That Work](#storytelling)
+
+
+# Why This Exists 
+
 I currently subscribe to three public media Facebook groups, several listservs, read several blogs, and try to follow hashtags on Twitter — and still miss really important public media stuff. (And I'm sure there are walled gardens I'm not a member of or not even aware of...)
 
-So I'm taking a cue from a really smart idea in the tech world: to use Github to [make lists](https://github.com/jnv/lists) of all of the awesome public media resources, in one place. Anyone can add to this list. To add to the list,
+So I'm taking a cue from a really smart idea in the tech world: to use Github to [make lists](https://github.com/jnv/lists) of all of the awesome public media resources, in one place. 
+
+# Instructions
+
+This page is written in a language called markdown. Links should be submitted as follows:
+
+```* [Title of Content](link to content) - description of content```
+
+Anyone can add to this list. To add to the list,
 
 1. Fork the repo
 2. Make changes
@@ -11,18 +38,7 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 
 ([detailed instructions for newcomers here](http://melodykramer.github.io/2015/04/06/learning-github-without-one-line-of-code/).)
 
-# Categories 
 
-* [Archives](#archives)
-* [Audio Editing Tools](#tools)
-* [Engineering Tools](#engineering)
-* [Membership Ideas](#membership)
-* [Pledge Drive Ideas](#pledge)
-* [Projects](#projects)
-* [Public Media Chats](#chats)
-* [Code Repos](#repos)
-* [Social Media Campaigns That Work](#social)
-* [Storytelling Ideas That Work](#storytelling)
 
 
 # Archives
