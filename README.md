@@ -9,12 +9,13 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 2. Make changes
 3. Submit a pull request
 
-To add 
+# Categories 
 
 * [Archives](#archives)
 * [Audio Editing Tools](#tools)
-* [Engineering](#engineering]
-* [Membership](#membership)
+* [Engineering Tools](#engineering)
+* [Membership Ideas](#membership)
+* [Pledge Drive Ideas](#pledge)
 * [Projects](#projects)
 * [Repos](#repos)
 * [Social](#social)
