@@ -3,20 +3,24 @@ Everything Public Media, in One Place
 
 I currently subscribe to three public media Facebook groups, several listservs, read several blogs, and try to follow hashtags on Twitter — and still miss really important public media stuff.
 
-So I'm taking a cue from a really smart idea in the tech world: to use Github to [make lists](github.com/jnv/lists) of all of the awesome public media resources, in one place. It's smart because anyone can add to this list. To add to the list, 
+So I'm taking a cue from a really smart idea in the tech world: to use Github to [make lists](github.com/jnv/lists) of all of the awesome public media resources, in one place. Anyone can add to this list. To add to the list,
+
+1. Fork the repo
+2. Make changes
+3. Submit a pull request
 
 To add 
 
-[Archives](#archives)
-[Tools](#tools) 
-[Projects](#projects)
-[Repos](#repos)
-[Social](#social)
+* [Archives](#archives)
+* [Audio Editing Tools](#tools)
+* [Engineering](#engineering]
+* [Membership](#membership)
+* [Projects](#projects)
+* [Repos](#repos)
+* [Social](#social)
 
 
 # Archives
-
-
 
 # Tools
 
@@ -30,6 +34,57 @@ To add
 # Projects 
 
 # Repos
+
+## actual public radio stations
+https://github.com/nypublicradio
+https://github.com/KQED
+https://github.com/SCPR
+https://github.com/stlpublicradio
+https://github.com/thebirn
+https://github.com/michiganradio
+https://github.com/kuscinteractive
+https://github.com/klruweb
+https://github.com/KPBS
+https://github.com/wbez
+https://github.com/azpm
+https://github.com/wbur
+https://github.com/wgbh
+https://github.com/vprnet
+ 
+## community/college radio
+https://github.com/WHRB
+https://github.com/WMFO
+ 
+## networks
+https://github.com/PRX
+https://github.com/APMG
+https://github.com/PublicRadioInternational
+https://github.com/npr
+https://github.com/nprapps
+https://github.com/nprdm
+https://github.com/nprds
+ 
+## related
+https://github.com/publicmediaplatform
+https://github.com/youthradio
+https://github.com/opensourceradio
+https://github.com/bbcrd
+https://github.com/popuparchive/
+https://github.com/DemocracyNow
+ 
+## prior aggrgation attempt
+https://github.com/pubcode
+ 
+## pbs
+https://github.com/pbs
+https://github.com/pbs-education
+https://github.com/newshour
+https://github.com/OpenBento
+https://github.com/PBS-KIDS
+https://github.com/openpublicmedia
+ 
+# spun off american archive work
+https://github.com/projectblacklight
 
 # Social 
 
