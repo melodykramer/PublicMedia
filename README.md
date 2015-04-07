@@ -9,6 +9,8 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 2. Make changes
 3. Submit a pull request
 
+([detailed instructions for newcomers here](http://melodykramer.github.io/2015/04/06/learning-github-without-one-line-of-code/).)
+
 # Categories 
 
 * [Archives](#archives)
