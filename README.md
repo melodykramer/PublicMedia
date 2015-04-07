@@ -31,6 +31,7 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 
 * [Audio](#audio)
 * [Storytelling](#storytelling)
+* [Handbooks and manuals] (#handbooks)
 
 ## Audio
 
@@ -47,6 +48,10 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 
 * [KALW](http://www.kalw.com) invited Daniel Handler — aka Lemony Snicket — into the studio during a pledge drive, told him to mention their number a few times and [let him loose](https://soundcloud.com/kalw/kalw-more-fun-than-a-pot-of-glue-2). The result? People were calling the station begging to go back to pledge breaks.
 * [WNYC's Pledge Drive Videos](https://www.youtube.com/playlist?list=PLUQrcRVuC9YKEZhse2_HMvS_vpZoyRVze)
+
+##Handbooks and manuals 
+* [2003 Handbook on Social Media from Swedish Public Radio](http://sverigesradio.se/press/bilder/swedishradio2013_socmed.pdf) (pdf)
+
 
 # Projects 
 
@@ -81,6 +86,9 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 * https://github.com/nprdm
 * https://github.com/nprds
  
+##international
+* [Sweden](https://github.com/sverigesradio)
+
 ## related
 * https://github.com/publicmediaplatform
 * https://github.com/youthradio
