@@ -34,6 +34,11 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 
 ## Audio
 
+### Podcasts
+* [Podcast Generator](http://podcastgen.sourceforge.net) - an open source podcast generator
+
+* 
+
 ## Storytelling
 
 # Projects 
@@ -77,7 +82,7 @@ So I'm taking a cue from a really smart idea in the tech world: to use Github to
 * https://github.com/popuparchive/
 * https://github.com/DemocracyNow
  
-## prior aggrgation attempt
+## prior aggregation attempt
 * https://github.com/pubcode
  
 ## pbs
