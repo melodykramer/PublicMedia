@@ -23,24 +23,19 @@ Public Media Tools, Projects, and Repos
 
 # Social 
 
-**Social Media Guide to Public Radio Member Stations, Reporters, and Shows**
+* [90.5 WESA, Pittsburgh Public Radio](#WESA)
 
-*Note from moderator Mel*: Please add your show/desk/station info below. Once I have all of it, I can design this in a much more searchable way. There's currently no resource like this, as far as I am aware.
+* [NPR Books](#nprbooks)
 
-
-**[90.5 WESA, Pittsburgh Public Radio](http://www.reddit.com/r/NPR/wiki/WESA)**
-
-**[NPR Books](http://www.reddit.com/r/NPR/wiki/NPR_books)**
-
-**[West Virginia Public Broadcasting](http://www.reddit.com/r/NPR/wiki/WVPB)**
+* [West Virginia Public Broadcasting](#WVPB)
  
-**[KPLU Public Radio in Seattle](http://www.reddit.com/r/NPR/wiki/KPLU)**
+* [KPLU Public Radio in Seattle](#KPLU)
 
-**[WRKF in Baton Rouge, Louisiana](http://www.reddit.com/r/NPR/wiki/WRKF)**
+* [WRKF in Baton Rouge, Louisiana](#WRKF)
 
-**[WUWF Public Radio From the University of West Florida](http://www.reddit.com/r/NPR/wiki/WUWF)**
+* [WUWF Public Radio From the University of West Florida](#WUWF)
 
-**WFSU (Florida Public Radio) in Tallahassee, Florida**
+* [WFSU (Florida Public Radio) in Tallahassee, Florida**
 
 [Facebook](https://www.facebook.com/wfsumedia), [Twitter](https://twitter.com/wfsunews)
 
