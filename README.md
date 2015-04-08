@@ -32,9 +32,15 @@ This page is written in a language called markdown. Links should be submitted as
 
 Anyone can add to this list. To add to the list,
 
-1. Fork the repo
-2. Make changes
-3. Submit a pull request
+1. Click the fork button, which you'll find on the top right corner of this page.
+2. In blue, you should now see your username / PublicMedia, then underneath, that it was forked from melodykramer. You're now ready to edit your own version of PublicMedia, which you will merge into the original once your edits are finished.
+3. You should see a link in blue a little ways down that says README.md. Click that link.
+4. On the right side of the page, you should now see small icons in a horizontal row: a monitor, a pencil, and a trash. Click on the pencil to edit the page. 
+5. Make your changes in the file. Be sure to follow the syntax formatting that already exists. It's in a language called Markdown, and syntax consistancy across the file will make the final product easy to read.
+6. Scroll down once you're finished with your edits. At the bottom of the page, there's a place to leave a comment about what you've done. This is optional. 
+7. Click "Create a new branch for this commit and start a pull request."
+8. Click "Propose file change."
+9. Click "Create pull request."
 
 ([detailed instructions for newcomers here](http://melodykramer.github.io/2015/04/06/learning-github-without-one-line-of-code/).)
 
