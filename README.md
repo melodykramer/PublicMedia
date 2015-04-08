@@ -40,6 +40,7 @@ Anyone can add to this list. To add to the list,
 6. Scroll down once you're finished with your edits. At the bottom of the page, there's a place to leave a comment about what you've done. This is optional. 
 7. Click "Commit directly to the Master branch." (Remember, this is still your version, not the original.)
 8. When you go back to the main page for your version of PublicMedia, underneath the green button, you should see a little gray line that says the branch is some number of commits ahead of melodykramer:master. Directly right of that line, click the button for Pull Request. 
+9. Review your edits, and when they are ready, create your pull request.
 
 
 ([detailed instructions for newcomers here](http://melodykramer.github.io/2015/04/06/learning-github-without-one-line-of-code/).)
