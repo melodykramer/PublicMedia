@@ -38,7 +38,7 @@ Anyone can add to this list. To add to the list,
 4. On the right side of the page, you should now see small icons in a horizontal row: a monitor, a pencil, and a trash. Click on the pencil to edit the page. 
 5. Make your changes in the file. Be sure to follow the syntax formatting that already exists. It's in a language called Markdown, and syntax consistancy across the file will make the final product easy to read.
 6. Scroll down once you're finished with your edits. At the bottom of the page, there's a place to leave a comment about what you've done. This is optional. 
-7. Click "Commit directly to the Master branch." (Remember, this is still your version, not the original.
+7. Click "Commit directly to the Master branch." (Remember, this is still your version, not the original.)
 
 
 ([detailed instructions for newcomers here](http://melodykramer.github.io/2015/04/06/learning-github-without-one-line-of-code/).)
