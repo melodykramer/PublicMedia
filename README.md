@@ -136,6 +136,28 @@ Anyone can add to this list. To add to the list,
 ## spun off american archive work
 * https://github.com/projectblacklight
 
+### NPR API
+
+* [Documentation](http://www.npr.org/api/index.php)
+
+* KCRW's Python NPR API library [github](https://github.com/alecpm/kcrw.nprapi)
+
+### Public Media Platform - PMP API
+
+* [Documentation](https://support.pmp.io/docs)
+
+* Javascript: pmp-js-sdk on [github](https://github.com/publicmediaplatform/pmp-js-sdk) /[npm](https://www.npmjs.org/package/pmpsdk)
+
+* Perl: Net::PMP on [github](https://github.com/APMG/pmp-sdk-perl) / [cpan](https://metacpan.org/release/Net-PMP) — Net::PMP::Profile on [github](https://github.com/APMG/net-pmp-profile-perl) / [cpan](https://metacpan.org/release/Net-PMP-Profile)
+
+* PHP: phpsdk on [github](https://github.com/publicmediaplatform/phpsdk)
+
+* Python: pmp-myriad on [github](https://github.com/pbs/pmp-myriad)
+
+* Python: py3-pmp-wrapper on [github](https://github.com/KPBS/py3-pmp-wrapper)
+
+* Ruby: pmp on [github](https://github.com/PRX/pmp) / [rubygems](https://rubygems.org/gems/pmp)
+
 # Social 
 
 * [90.5 WESA, Pittsburgh Public Radio](#WESA)
