@@ -798,8 +798,30 @@ People:
 
 [Bill Zeeble](https://twitter.com/bzeeble), Reporter
 
+**WYPR, Baltimore**
 
+Station:
+[Facebook](https://www.facebook.com/WYPR881Baltimore) |
+[Twitter](https://twitter.com/wypr881fm)
 
+Programs:
+[Midday](https://twitter.com/middaywypr) |
+[Maryland Morning](https://twitter.com/marylandmorning)
 
+People:
 
+[Dan Rodricks](https://twitter.com/danrodricks), Host, Midday
 
+[Chris Connelly](https://twitter.com/hithisischris), Politics Reporter
+
+[P. Kenneth Burns](https://twitter.com/pkbnews), Reporter
+
+[Matt Purdy](https://twitter.com/matthewpurdy), Senior Producer, Maryland Morning
+
+[Jonna McKone](https://twitter.com/jemckone), Producer, Maryland Morning
+
+[Aaron Henkin](https://twitter.com/aaronhenkin), Senior Producer, The Signal
+
+[Mary Rose Madden](https://twitter.com/maryrosemadden), Reporter/Producer
+
+[Maureen Harvie](https://twitter.com/maureen_harvie), Producer, Midday
