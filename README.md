@@ -269,6 +269,7 @@ People:
 
 [WBUR Reporters](http://twitter.com/wbur/lists/reporters)
 
+
 **WAMU in Washington, D.C.**
 
 [WAMU.org](http://www.wamu.org)
@@ -277,26 +278,25 @@ People:
 
 Social folks: 
 
-[Jacob Fenston](https://twitter.com/jacobfenston), editor  
-
-[Armando Trull](https://twitter.com/trulldc), morning reporter
-
-[Martin Di Caro](https://twitter.com/martindicaro), transportation reporter 
-
-[Kavitha Cardoza](https://twitter.com/kavithacardoza), education reporter
-
-[Michael Pope](https://twitter.com/michaelleepope), Virginia reporter
+[Martin Austermuhle](https://twitter.com/maustermuhle), dayside web producer 
 
 [Matt Bush](https://twitter.com/mattbushmd), Maryland reporter, anchor
 
-[Patrick Madden](https://twitter.com/Patrick_Madden), D.C. reporter
+[Kavitha Cardoza](https://twitter.com/kavithacardoza), education reporter
 
 [Chris Chester](https://twitter.com/chrisbchester), morning web producer 
 
-[Martin Austermuhle](https://twitter.com/maustermuhle), dayside web producer 
+[Martin Di Caro](https://twitter.com/martindicaro), transportation reporter
+
+[Jacob Fenston](https://twitter.com/jacobfenston), editor 
+
+[Patrick Madden](https://twitter.com/Patrick_Madden), D.C. reporter
+
+[Michael Pope](https://twitter.com/michaelleepope), Virginia reporter 
 
 [Ally Schweitzer](https://twitter.com/allyschweitzer), evening web producer
 
+[Armando Trull](https://twitter.com/trulldc), morning reporter
 
 Shows/blogs: [Bandwidth](https://twitter.com/bandwidthDC), [Metro Connection](https://twitter.com/wamumetro), [Kojo Nnamdi Show](https://twitter.com/kojoshow), [Diane Rehm Show](https://twitter.com/drshow)
 
