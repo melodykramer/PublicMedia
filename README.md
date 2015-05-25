@@ -73,6 +73,7 @@ Anyone can add to this list. To add to the list,
 
 * [KALW](http://www.kalw.com) invited Daniel Handler — aka Lemony Snicket — into the studio during a pledge drive, told him to mention their number a few times and [let him loose](https://soundcloud.com/kalw/kalw-more-fun-than-a-pot-of-glue-2). The result? People were calling the station begging to go back to pledge breaks.
 * [WNYC's Pledge Drive Videos](https://www.youtube.com/playlist?list=PLUQrcRVuC9YKEZhse2_HMvS_vpZoyRVze)
+* [WMRA Warp Speed Fundraising](https://support.wmra.org/Load/wmra.html) WMRA (in Harrisonburg, VA) had messages during breaks to ask its members to give ahead of the fund drive week so no programs would have to be interrupted. It worked, they raised $200,000, and now they have regular messages on-air and online (such as "Support WMRA today: if we can reach $75,000 by June 9th, we won't have to interrupt any programs!") to remind listeners to give by a certain date to prevent needing a "normal" drive.
 
 ##Handbooks and manuals 
 * [2003 Handbook on Social Media from Swedish Public Radio](http://sverigesradio.se/press/bilder/swedishradio2013_socmed.pdf) (pdf)
